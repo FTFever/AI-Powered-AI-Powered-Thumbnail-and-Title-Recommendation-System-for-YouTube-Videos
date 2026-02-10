@@ -1,0 +1,14 @@
+torch
+transformers
+diffusers
+accelerate
+peft
+pillow
+requests
+pandas
+numpy
+tqdm
+flask
+google-api-python-client
+safetensors
+bitsandbytes
