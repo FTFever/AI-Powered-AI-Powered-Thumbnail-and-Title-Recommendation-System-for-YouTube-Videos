@@ -72,7 +72,3 @@ This repo builds:
 - Top-N generated thumbnails
 - “Why this works” explanation (interpretable features)
 
----
-
-## 📦 Repo Structure (suggested)
-
